@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem 'razorpay'
-gem 'spree_core', '>= 3.1.0', '< 4.0'
+gem 'spree_core', '>= 3.1.0', '< 4.4.4'
 gem 'byebug'
 
 gem 'sassc-rails'
